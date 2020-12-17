@@ -1,1 +1,2 @@
-# miniproject-atmapp
+# Mini Project - ATM app
+## Benita Irmadiani
